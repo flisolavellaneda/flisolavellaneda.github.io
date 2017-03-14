@@ -8,7 +8,7 @@ categories: jekyll update
 
 ## ¿Dónde?
 
-UTN-Fra ([http://www.fra.utn.edu.ar/]), Av. Mitre 750, Avellaneda.
+[UTN-Fra](http://www.fra.utn.edu.ar/), Av. Mitre 750, Avellaneda.
 
 ## ¿Cuándo?
 
