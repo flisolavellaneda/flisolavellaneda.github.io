@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "FLISoL Avellaneda 2017"
+date:   2017-03-14 11:30:30 -0300
+categories: jekyll update
+---
+#FLISoL Avellaneda 2017
+
+## ¿Dónde?
+
+UTN-Fra ([http://www.fra.utn.edu.ar/]), Av. Mitre 750, Avellaneda.
+
+## ¿Cuándo?
+
+Sábado 22 de Abril, de 11 a 19hs.
+
+## ¿Quién organiza?
+
+## ¿Cómo puedo colaborar?
+
+Poniéndote en contacto con nosotros, podés mandar un mail a flisolavellaneda@gmail.com.
